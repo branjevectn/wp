@@ -1,7 +1,7 @@
 <?php
 /**
  * Raising  FSE functions and definitions
- * jihdxvfczsrdsxfg
+ * jihdxvfczsrdsxcxfg
  * @link https://developer.wordpress.org/themes/basics/theme-functions/
  *
  * @package Raising  FSE
