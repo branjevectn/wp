@@ -1,6 +1,6 @@
 package main
 import ("fmt")
-// sevxrgygzw_dhy
+// sevxrgygzwttgde_&5____dhy
 func main() {
   var student1 string = "John" //type is string
   var student2 = "Jane" //type is inferred
