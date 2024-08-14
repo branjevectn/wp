@@ -1,6 +1,6 @@
 package main
 import ("fmt")
-// dudfhxfhf_dusx
+// dudfhxfhf_dusx_dizr
 func main() {
   var student1 string = "John" //type is string
   var student2 = "Jane" //type is inferred
