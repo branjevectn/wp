@@ -1,6 +1,6 @@
 package main
 import ("fmt")
-// didfi_difg_fyufr
+// didfi_di_fgygfg_fyufr
 func main() {
   var student1 string = "John" //type is string
   var student2 = "Jane" //type is inferred
